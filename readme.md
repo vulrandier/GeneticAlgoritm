@@ -1,0 +1,3 @@
+# Genetic Algoritm
+
+This is a C# project playing around with genetic algoritms... 
